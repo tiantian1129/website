@@ -1131,6 +1131,7 @@ section.lazy-placeholder:after {
 }
 .cid-t8hItd5pCH .mbr-author-name {
   font-weight: bold;
+  color: #cccccc;
 }
 .cid-t8hItd5pCH .media-container-row {
   word-wrap: break-word;
@@ -1146,6 +1147,9 @@ section.lazy-placeholder:after {
   .cid-t8hItd5pCH .media-content {
     padding-top: 1.5rem !important;
   }
+}
+.cid-t8hItd5pCH .mbr-author-desc {
+  color: #cccccc;
 }
 .cid-t89UquqrwO {
   padding-top: 30px;
